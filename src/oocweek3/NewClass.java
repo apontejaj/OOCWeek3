@@ -15,7 +15,9 @@ public class NewClass {
         
         
         
-        //System.out.println("This is my first repository");
+
+        System.out.println("this is a test");
+
         
         
         System.out.println("This is my first repository");
